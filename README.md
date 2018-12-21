@@ -1,4 +1,3 @@
 # biscoito_sorte_app
-<center>
+  <p>Aplicativo feito com react-native</p>
   <img src="app.png"/>
-</center>
