@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "sdkVersion": "31.0.0",
+    "name": "Biscoito da Sorte",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "biscoito_sorte_app",
+    "privacy": "public",
+    "android": {
+      "package": "com.douglas.biscoito_sorte_app"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
